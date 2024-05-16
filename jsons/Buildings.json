@@ -75,7 +75,7 @@
 			"New [Military] units start with [12] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
-{
+	{
 		"name": "Sparkling Beachfront",
 		"cost": 75,
 		"replaces": "Lighthouse",
@@ -85,5 +85,5 @@
 		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
 			"[+2 Food] from [Coast] tiles [in this city]", "[+2 Food] from [Fish] tiles [in this city]" ],
 		"requiredTech": "Optics"
-	},
+	}
 ]
