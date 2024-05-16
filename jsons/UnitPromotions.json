@@ -6,7 +6,7 @@
     },
     {
         "name": "Penguin Sliding Stomachs",
-        "uniques": ["[+30]% Strength <when fighting in [Snow] tiles>"],
+        "uniques": ["[+30]% Strength <when fighting in [Snow] tiles>","Double movement in [Snow]"],
         "unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder"]
     }
 ]

@@ -74,7 +74,7 @@
 		"outerColor": [100,149,237],
 		"innerColor": [0,0,0],
 		"uniqueName": "Naval Domination",
-		"uniques": ["Units ignore terrain costs when moving into any tile with Ocean", "\"Borrows\" city names from other civilizations in the game", "[+20]% Production when constructing [Water] units [in all cities]","Gain [5] [Production] <upon entering a new era>","Gain [1] [Production] <upon building a [Arctic Coast] improvement>","Double movement in [terrainFilter]"],
+		"uniques": ["Units ignore terrain costs when moving into any tile with Ocean", "\"Borrows\" city names from other civilizations in the game", "[+20]% Production when constructing [Water] units [in all cities]","Gain [5] [Production] <upon entering a new era>","Gain [1] [Production] <upon building a [Arctic Coast] improvement>"],
 		"cities": ["Penguinland"]
 	},
 	{
