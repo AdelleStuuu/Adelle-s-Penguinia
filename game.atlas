@@ -1,0 +1,279 @@
+
+game.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Aputiak
+  rotate: false
+  xy: 4, 19
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+BuildingIcons/Arctic Coast
+  rotate: false
+  xy: 112, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cryo Plant
+  rotate: false
+  xy: 760, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Icy Waters
+  rotate: false
+  xy: 1300, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Luxurious Cabin
+  rotate: false
+  xy: 1516, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sparkling Beachfront
+  rotate: false
+  xy: 868, 45
+  size: 100, 72
+  orig: 100, 72
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Cogpits
+  rotate: false
+  xy: 1300, 17
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Igloo
+  rotate: false
+  xy: 1624, 17
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Igloo
+  rotate: false
+  xy: 1408, 126
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+NationIcons/Svalbard
+  rotate: false
+  xy: 976, 18
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Adelie Armored Division
+  rotate: false
+  xy: 1084, 19
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Chinstrap Division
+  rotate: false
+  xy: 1192, 18
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Emperor's Navy
+  rotate: false
+  xy: 1408, 18
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Humboldt Sailors
+  rotate: false
+  xy: 1516, 26
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+NationIcons/The Kairuku Savages
+  rotate: false
+  xy: 1732, 17
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Abominable Snowman
+  rotate: false
+  xy: 4, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Penguin Carrier
+  rotate: false
+  xy: 1948, 125
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Penguinia
+  rotate: false
+  xy: 1948, 125
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Penguin Militia
+  rotate: false
+  xy: 1948, 125
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Weaponized Assault Penguins
+  rotate: false
+  xy: 1948, 125
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Seal
+  rotate: false
+  xy: 220, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Assault Penguin Carrier
+  rotate: false
+  xy: 328, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Boarders
+  rotate: false
+  xy: 436, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bombadier
+  rotate: false
+  xy: 112, 22
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+UnitIcons/Coastal Annahilator
+  rotate: false
+  xy: 544, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Coastal Assailant
+  rotate: false
+  xy: 652, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Conqueror
+  rotate: false
+  xy: 220, 25
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+UnitIcons/Diver
+  rotate: false
+  xy: 868, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Explorer
+  rotate: false
+  xy: 976, 126
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Hitters
+  rotate: false
+  xy: 1084, 127
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+UnitIcons/Peace Maker
+  rotate: false
+  xy: 1624, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Penguin Gunner
+  rotate: false
+  xy: 1732, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Penguin Launcher
+  rotate: false
+  xy: 1840, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Penguins with Sticks
+  rotate: false
+  xy: 436, 14
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+UnitIcons/Pointy Peckers
+  rotate: false
+  xy: 544, 17
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Polar Division
+  rotate: false
+  xy: 652, 4
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+UnitIcons/Savages
+  rotate: false
+  xy: 760, 17
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ice-cold heart
+  rotate: false
+  xy: 1192, 126
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Penguin Sliding Stomachs
+  rotate: false
+  xy: 328, 21
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1

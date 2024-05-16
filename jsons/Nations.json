@@ -1,0 +1,158 @@
+[
+	{
+		"name": "The Chinstrap Division",
+		"leaderName": "General Skipper",
+		"adjective": ["Chinstrap Penguin"],
+		"startBias": ["[Tundra]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": "You are standing in the way of my operation! Get 'em boys!",
+		"attacked": "I'll make you regret for ever picking a fight with the wrong penguin!",
+		"defeated": "NOOOO-",
+		"introduction": "General Skipper of the Chinstrap Division here, can you move out of my way?",
+
+		"neutralHello": "Salutation",
+		"hateHello": "The heck do you want?",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [218,165,32],
+		"innerColor": [0,0,0],
+		"uniqueName": "The Wobbled March",
+        "uniques": ["[+20]% Strength <when fighting in [Tundra] tiles>", "\"Borrows\" city names from other civilizations in the game", "[+15]% Production when constructing [Gunpowder] units [in all cities]","Units ignore terrain costs when moving into any tile with Tundra"],
+        "cities": ["Penguinland"]      
+	},
+	{
+		"name": "The Adelie Armored Division",
+		"leaderName": "Commander Kowalski",
+		"adjective": ["Babylonian"],
+		"startBias": ["[Tundra]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": "Your destructive behavior will not be tolerated, you must be stopped! Onward to war, comrades!",
+		"attacked": "Well well, getting a little cocky now are we?",
+		"defeated": "Sigh... Guess this is how we'll go down in history.",
+		"introduction": "This is Commander Kowalski speaking, are you a part of the Division or not?",
+
+		"neutralHello": "Greetings, friend.",
+		"hateHello": "Don't waste my time.",
+
+		"tradeRequest": "Let us commence a trade agreement.",
+
+		"outerColor": [225,225,225],
+		"innerColor": [0,0,0],
+		"uniqueName": "Armored Production",
+        "uniques": ["[+20]% Strength <when fighting in [Tundra] tiles>", "\"Borrows\" city names from other civilizations in the game", "[+15]% Production when constructing [Armored] units [in all cities]", "[+2] Movement <for [Armored] units>"],
+        "cities": ["Penguinland"]
+	},
+	{
+		"name": "The Emperor's Navy",
+		"leaderName": "Admiral Pingu",
+		"adjective": ["Emperor Penguin"],
+		"startBias": ["[Coast]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+
+		"declaringWar": "The Emperor will see to your destruction.",
+		"attacked": "You dare challenge His Greatness and his imperial fleet?",
+		"defeated": "No! This cannot be possible!",
+		"introduction": "I bid you welcome. I speak on behalf of His Greatness and the Empire. ",
+
+		"neutralHello": "Welcome aboard.",
+		"hateHello": " This is restricted only to loyal subjects... And you're not one of them.",
+
+		"tradeRequest": "Would you like some Ice cubes?",
+
+		"outerColor": [100,149,237],
+		"innerColor": [0,0,0],
+		"uniqueName": "Naval Domination",
+		"uniques": ["Units ignore terrain costs when moving into any tile with Ocean", "\"Borrows\" city names from other civilizations in the game", "[+20]% Production when constructing [Water] units [in all cities]","Gain [5] [Production] <upon entering a new era>","Gain [1] [Production] <upon building a [Arctic Coast] improvement>"],
+		"cities": ["Penguinland"]
+	},
+	{
+
+		"name": "Svalbard",
+		"leaderName": "Iorek Byrnison",
+		"adjective": ["Svalbarbruhs"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Ahahah",
+		"startIntroPart2": "Bruhh",
+
+		"declaringWar": "It'll be dark soon.",
+		"attacked": "Bears see tricks and deceit as plain as arms and legs. We can see in a way humans have forgotten. You cannot trick a bear.",
+		"defeated": "Yes, that is all.",
+		"introduction": "I will serve you in your campaign until you have a victory.",
+
+		"neutralHello": "Grr?",
+		"hateHello": "What do YOU want?",
+
+		"tradeRequest": "...",
+
+		"outerColor": [227,223,211],
+		"innerColor": [186,183,175],
+		"uniqueName": "The Home, Arctic",
+		"uniques": ["[+2 Production] from every [Snow]",
+			"[+1 Food] from every [Coast]",
+			"[+1 Food] from every [Ocean]",
+			"[+1] Movement <in [Snow] tiles>",
+			"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Svalbard"]
+	},
+  {
+		"name": "The Kairuku Savages",
+		"leaderName": "Chief Duke",
+		"adjective": ["Kairuku Penguin"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "Today, we feast on your blood!",
+		"attacked": "You have mistaken us as simple fools. Sound the war drums!",
+		"defeated": "Perhaps... They were right about us being savages...",
+		"introduction": "Welcome to my tribe, stranger. I am Chief Duke, would you like some bear meat?",
+		"neutralHello": "Hello.",
+		"hateHello": "Step any closer, and I will throw a spear at your heart.",
+		"tradeRequest": "I heard you have very luxurious items. May we see it?",
+		"outerColor": [134, 176, 73],
+		"innerColor": [71, 105, 48],
+		"favoredReligion": "Tengriism",
+		"uniqueName": "Destructive Fear",
+		"uniques": ["[+1] Movement <for [Sword] units>","\"Borrows\" city names from other civilizations in the game","When conquering an encampment, earn [15] Gold and recruit a Barbarian unit <with [67]% chance>","[-10]% maintenance costs <for [Land] units>"],
+		"cities": ["Penguinland"]
+	},
+	{
+		"name": "The Humboldt Sailors",
+		"leaderName": "Captain Penny",
+		"adjective": ["Humboldt Penguin"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "Alas, yer treasury is something I couldn't resist! Hands on deck!",
+		"attacked": "Ye raid me, I raid you!",
+		"defeated": "Abandon ship, abandon ship!",
+		"introduction": "I be this Captain of the Humboldt Sailors. Step aside if ye don't wanta be raided!",
+		"neutralHello": "Yarr, hello lad!",
+		"hateHello": "Urgh, what do ye want?",
+		"tradeRequest": "Yarr, let's do some bartering, ay?",
+		"outerColor": [114, 210, 222],
+		"innerColor": [33, 131, 128],
+		"favoredReligion": "Islam",
+		"uniqueName": "Arctic Pirates",
+		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "\"Borrows\" city names from other civilizations in the game", "[Land] units gain the [Amphibious] promotion","[-10]% maintenance costs <for [Water] units>", "[+20]% Production when constructing [Water] units [in all cities]"],
+		"cities": ["Penguinland"]
+	}
+
+]
